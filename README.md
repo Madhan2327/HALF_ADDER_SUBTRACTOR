@@ -68,7 +68,9 @@ Figure -02 HALF Subtractor
     assign borrow= ( ~a & b);
     endmodule
     
-Developed by:Tharun.R RegisterNumber:212224240172
+Developed by:Madhan C
+
+RegisterNumber:212224240081
 
 **RTL Schematic**
 
